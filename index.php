@@ -19,7 +19,7 @@
                     <div class="box">
                         <p class="description">MinePos was the superior option for me as finance isn't always easy with a startup. Overall a great help and worry free.</p>
                     </div>
-                    <div class="author"><img class="rounded-circle" src="assets/img/unknown.png">
+                    <div class="author"><img class="rounded-circle" src="https://minepos.b-cdn.net/assets/img/unknown.png">
                         <h5 class="name" style="color:rgb(255,255,255);">DiscoverSquishy</h5>
                         <p class="title">CEO of CraftiteMania</p>
                     </div>
@@ -28,7 +28,7 @@
                     <div class="box">
                         <p class="description">As the main creator and developer of MinePos I enjoy using my own software for personal purposes like test servers etc.</p>
                     </div>
-                    <div class="author"><img class="rounded-circle" src="assets/img/Andrew.png">
+                    <div class="author"><img class="rounded-circle" src="https://minepos.b-cdn.net/assets/img/Andrew.png">
                         <h5 class="name" style="color:rgb(255,255,255);">Andrew Aubury</h5>
                         <p class="title">CEO of MinePos&nbsp;</p>
                     </div>
@@ -37,7 +37,7 @@
                     <div class="box">
                         <p class="description">Creating a server is hard enough and with the extra charges of those minecraft stores it's a big struggle MinePos just helps me calm my head.</p>
                     </div>
-                    <div class="author"><img class="rounded-circle" src="assets/img/Craig.png">
+                    <div class="author"><img class="rounded-circle" src="https://minepos.b-cdn.net/assets/img/Craig.png">
                         <h5 class="name" style="color:rgb(255,255,255);">Craig&nbsp;</h5>
                         <p class="title">Owner of Dubcraft</p>
                     </div>
