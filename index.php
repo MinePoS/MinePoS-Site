@@ -1,7 +1,7 @@
 <?php $pageTitle = 'Home';
 include 'includes/header.php';
 ?>
-    <div class="jumbotron bg-shake" style="background-image:url(&quot;assets/img/cube-bg.png&quot;);background-color:rgb(98,25,25);height:500px;margin-bottom: 0px;">
+    <div class="jumbotron bg-shake" style="background-color:rgb(98,25,25);height:500px;margin-bottom: 0px;">
         <div class="col">
             <h1 style="color:rgb(255,255,255);padding:20px;font-family:Aladin, cursive;font-size:70px;">Make money using MinePos!</h1>
         </div>
