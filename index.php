@@ -108,7 +108,7 @@ include 'includes/header.php';
                     <div class="box"><i class="fa fa-code-fork icon"></i>
                         <h3 class="name">Customization </h3>
                         <a data-toggle="modal" data-target="#custom" class="learn-more" href="#">Learn more »</a>
-                        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="customLabel" aria-hidden="true">
+                        <div class="modal fade" id="custom" tabindex="-1" role="dialog" aria-labelledby="customLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
