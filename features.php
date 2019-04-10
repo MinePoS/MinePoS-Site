@@ -52,7 +52,7 @@ include 'includes/header.php';
     <!-- PHONE IMAGE -->
     <div class="col-sm-5">
         <div class="featuresz-img wow bounceIn text-center" data-wow-offset="120" data-wow-duration="1.5s" style="visibility: visible;-webkit-animation-duration: 1.5s; -moz-animation-duration: 1.5s; animation-duration: 1.5s;">
-            <img src="assets/img/cp.png" style="width: 100%;" alt="App Feature Image">
+            <img src="https://minepos.b-cdn.net/assets/img/cp.png" style="width: 100%;" alt="App Feature Image">
             <a class="btn btn-danger add" style="width: 20%; display: inline-block; margin-top:0px" href="http://demo.minepos.net" role="button">Try our Demo</a>
         </div>
     </div>
