@@ -24,7 +24,7 @@
 
 </head>
 
-<body style="background-color:rgb(98,25,25);">
+<body style="background-color:<?php if ($pageTitle == "Features") { echo "#white";} else {echo "rgb(98,25,25)";} ?>;">
 
 <nav class="navbar navbar-expand-md navbar-dark sticky-top navigation-clean-button">
     <div class="container-fluid">
@@ -35,13 +35,13 @@
 
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link navsize" href="index.php"><i class="fa fa-home"></i> Home</a>
+                <li class="nav-item navsize <?php if ($pageTitle == "Home") {echo "active";}?>">
+                    <a class="nav-link" href="index.php"><i class="fa fa-home"></i> Home</a>
                 </li>
-                <li class="nav-item navsize">
-                    <a class="nav-link" href="construction.html"><i class="fa fa-star-o"></i> Features</a>
+                <li class="nav-item navsize <?php if ($pageTitle == "Features") {echo "active";}?>">
+                    <a class="nav-link" href="features.php"><i class="fa fa-star-o"></i> Features</a>
                 </li>
-                <li class="nav-item navsize">
+                <li class="nav-item navsize <?php if ($pageTitle == "Mission") {echo "active";}?>">
                     <a class="nav-link" href="construction.html"><i class="fas fa-hand-holding-heart"></i> Our Mission</a>
                 </li>
                 <li class="nav-item navsize">

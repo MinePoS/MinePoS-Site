@@ -10,20 +10,21 @@
                         <li><a href="index.html"><i class="fas fa-home"></i>&nbsp;Home</a></li>
                         <li><a href="https://github.com/MinePoS/Documentation/wiki"><i class="fas fa-book-open"></i>&nbsp;Documentation</a></li>
                         <li><a href="https://discord.gg/Uk25cXM"><i class="fab fa-discord"></i>&nbsp;Discord</a></li>
+                        <li><a href="https://twitter.com/MinePoS"><i class="fa fa-twitter"></i>&nbsp;Twitter</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-6 col-md-3 item">
                     <h3>About</h3>
                     <ul>
-                        <li><a href="#">MinePos Community</a></li>
-                        <li><a href="#">Development Team</a></li>
+                        <li><a href="https://github.com/orgs/MinePoS/people">Development Team</a></li>
+                        <li><a href="construction.html">Privacy Notice</a></li>
+                        <li><a href="construction.html">Terms & Condition</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 item text">
                     <h3>MinePos</h3>
                     <p>At MinePos we care about security, customization and functionality. We firmly believe that we are one of the best open source MineCraft Point-of-Sale systems out there on the internet.  </p>
                 </div>
-                <div class="col item social"><a href="https://twitter.com/MinePoS" style="margin:10px;"><i class="icon ion-social-twitter"></i></a></div>
             </div>
             <p class="copyright">MinePos © 2018</p>
         </div>
