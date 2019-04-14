@@ -1,110 +1,68 @@
-<?php
-$pageTitle = 'Features';
-include 'includes/header.php';
-?>
-<div style="background-color:white">
-    <h1 style="padding-top: 20px;background-color: white; text-align: center">Why choose us?</h1>
-</div>
-<div class="featuresz" style="background-color: #fff;display: inline-flex;">
-    <!-- FEATURES LEFT SIDE -->
-    <div class="col-sm-3 featuresz-left text-right wow fadeInLeft" data-wow-offset="10" data-wow-duration="1.5s" style="visibility: visible;-webkit-animation-duration: 1.5s; -moz-animation-duration: 1.5s; animation-duration: 1.5s;">
-        <!-- FEATURE -->
-        <div class="featurez-items">
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-cloud"></i>
+<?php $pageTitle = 'Features';
+include 'php/header.php'; ?>
+    <section class="page-header page-header-modern page-header-md bg-primary">
+        <div class="container">
+            <div class="row">
 
-            <h5>Self Hosted</h5>
-            <p>
-                Have the power to change your donation platform in any way you would like! MinePOS is a Self-Hosted platform which means you get to host the application!
-            </p>
+                <div class="col-md-12 align-self-center p-static order-2 text-center">
+
+                    <h1 class="text-light">Features</h1>
+
+                </div>
+            </div>
         </div>
-        <!-- end Single Feature item -->
+    </section>
+    <section class="section bg-color-light section-height-3 border-0 mt-5 mb-0" style="margin-top: 0px; padding-top: 0px;">
+        <div class="container">
 
-        <!-- FEATURE -->
-        <div class="featurez-items">
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-life-ring"></i>
+            <div class="row">
+                <div class="col">
 
-            <h5>24/7 Support</h5>
-            <p>
-                If you ever need help, feel free to join our discord where our support team may help you with any problems you run into.
-            </p>
+                    <div class="row align-items-center pt-4 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+                        <div class="col-md-4 mb-4 mb-md-0">
+                            <img class="img-fluid scale-6 pr-5 pr-md-0 my-4" src="img/Browser%20Mockup.png" alt="Sleek Layout">
+                        </div>
+                        <div class="col-md-8 pl-md-5">
+                            <h2 class="font-weight-normal text-6 mb-3"><strong class="font-weight-extra-bold">Sleek</strong> Layout</h2>
+                            <p class="text-4">Manage your webstore with ease with the sleek design of our administration panel, whether you're adding packages, reviewing payments, adding staff members, and setting up deals for your server.</p>
+                        </div>
+                    </div>
+
+                    <hr class="solid my-5">
+
+                    <div class="row align-items-center pt-5 pb-3 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
+                        <div class="col-md-8 pr-md-5 mb-5 mb-md-0">
+                            <h2 class="font-weight-normal text-6 mb-3">Order <strong class="font-weight-extra-bold">Management</strong></h2>
+                            <p class="text-4">We make it easy to view and manage all the orders your players make. With our Order section of our panel, you can add, remove, and edit orders by your players.</p>
+                        </div>
+                        <div class="col-md-4 px-5 px-md-3">
+                            <img class="img-fluid scale-6 my-4" src="img/Browser%20Mockup(1).png" alt="Order Management">
+                        </div>
+                    </div>
+                    <hr class="solid my-5">
+                    <div class="row align-items-center pt-4 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+                        <div class="col-md-4 mb-4 mb-md-0">
+                            <img class="img-fluid scale-6 pr-5 pr-md-0 my-4" src="img/Browser%20Mockup(2).png" alt="User Management">
+                        </div>
+                        <div class="col-md-8 pl-md-5">
+                            <h2 class="font-weight-normal text-6 mb-3"><strong class="font-weight-extra-bold">User</strong> Management</h2>
+                            <p class="text-4">With our User Management system, you can easily add staff member accounts to your panel, with full customization of permissions that each group has. With a few clicks of a mouse, your staff can review if your players have donated.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- end Single Feature item -->
-
-        <!-- FEATURE -->
-        <div class="featurez-items">
-
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-code-fork"></i>
-
-            <!-- FEATURE HEADING AND DESCRIPTION -->
-            <h5>Customization</h5>
-            <p>
-                MinePOS is an open-source project which means with the know-how that you have, you can edit just about anything!
-            </p>
+    </section>
+    <section class="section section-default border-0 bg-primary" style="padding-top: 0px;margin-top: 0px;padding-bottom:30px;margin-bottom:0px;">
+        <div class="container">
+            <div class="row">
+                <div class="col" style="text-align: center">
+                    <h2 class="mb-0 text-center text-light" style="padding-top: 30px;">Ready to try it out?</h2>
+                    <br>
+                    <a href="http://demo.minepos.net" class="btn btn-outline-light btn-rounded btn-lg mb-2 text-center" style="display: inline-block; margin: auto;max-width: 100px;">Demo</a>
+                    <a href="https://github.com/MinePoS/Documentation/wiki" class="btn btn-outline-light btn-rounded btn-lg mb-2 text-center" style="display: inline-block; margin: auto;max-width: 125px;">Get Started</a>
+                </div>
+            </div>
         </div>
-        <!-- end Single Feature item -->
-
-    </div>
-    <!-- /END FEATURES LEFT -->
-
-    <!-- PHONE IMAGE -->
-    <div class="col-sm-5">
-        <div class="featuresz-img wow bounceIn text-center" data-wow-offset="120" data-wow-duration="1.5s" style="visibility: visible;-webkit-animation-duration: 1.5s; -moz-animation-duration: 1.5s; animation-duration: 1.5s;">
-            <img src="https://minepos.b-cdn.net/assets/img/cp.png" style="width: 100%;" alt="App Feature Image">
-            <a class="btn btn-danger add" style="width: 20%; display: inline-block; margin-top:0px" href="http://demo.minepos.net" role="button">Try our Demo</a>
-        </div>
-    </div>
-
-    <!-- FEATURES RIGHT -->
-    <div class="col-sm-3 featuresz-right wow fadeInRight" data-wow-offset="10" data-wow-duration="1.5s" style="visibility: visible;-webkit-animation-duration: 1.5s; -moz-animation-duration: 1.5s; animation-duration: 1.5s;">
-
-        <!-- FEATURE -->
-        <div class="featurez-items">
-
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-laptop"></i>
-
-            <h5>Cross Browser </h5>
-            <p>
-                Our platform is compatible with all browsers, on all devices so your players don't have to worry about being on a computer!
-            </p>
-        </div>
-        <!-- end Single Feature item -->
-
-        <!-- FEATURE -->
-        <div class="featurez-items">
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-heart"></i>
-
-            <h5>Frequent Updates</h5>
-            <p>
-                Our development team is dedicated on releasing updates, whether if its security updates, or more features to our awesome panel!
-            </p>
-
-        </div>
-        <!-- end Single Feature item -->
-
-        <!-- FEATURE -->
-        <div class="featurez-items">
-            <!-- ICON -->
-            <i class="featuresz-icon fa fa-lightbulb"></i>
-
-
-            <h5>Suggestions</h5>
-            <p>
-                If we don't have a feature you want, or even if you're not happy with one of our features, we always take suggestions into serious consideration.
-            </p>
-        </div><!-- end Single Feature item -->
-
-    </div><!-- /END FEATURES RIGHT -->
-</div>
-<div class="full-width">
-    <div style="color: #fff; text-align: center; background-color: rgb(98,25,25);width: 100%;margin-bottom:0px;padding-bottom: 0px;height:150px;">
-        <h3 style="padding-top:20px;padding-bottom: 8px;">Are you ready to make the switch?</h3>
-        <a class="btn btn-dark" style="width: 7%; display: inline-block; margin-top:0px;border-radius:300px" href="https://github.com/MinePoS/Documentation/wiki" role="button">Get Started</a>
-
-    </div>
-</div>
-<?php include 'includes/footer.php' ?>
+    </section>
+<?php include 'php/footer.php' ?>

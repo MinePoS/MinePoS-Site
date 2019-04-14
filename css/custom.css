@@ -1,0 +1,19 @@
+/* Add here all your CSS customizations */
+.tp-bgimg .defaultimg {
+    opacity: 0 !important;
+    background-color: #621919 !important;
+
+}
+.defaultimg{
+    background-color: #621919 !important;
+}
+.rev_slider .slotholder:after {
+    width: 100%;
+    height: 100%;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0.5);
+}
