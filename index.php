@@ -5,7 +5,7 @@ include 'php/header.php'; ?>
 					<div class="container py-5 my-5">
 						<div class="row justify-content-center mt-5 py-4">
 							<div class="col-12 col-sm-auto text-center text-sm-left mt-5">
-								<h1 class="font-weight-bold text-color-dark negative-ls-3 text-10 mb-2 appear-animation" style="font-size:112px;font-family: 'Sonsie One', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="200"><em>
+								<h1 class="font-weight-bold text-color-dark negative-ls-3 text-10 mb-2 appear-animation" style="font-size:112px;font-family: 'Lemon', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="200"><em>
 									Make money using MinePos!
 								</em></h1>
 							</div>
