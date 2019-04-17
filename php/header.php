@@ -32,7 +32,7 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Caveat|Sonsie+One" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lemon" rel="stylesheet"> 
 
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
