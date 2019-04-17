@@ -5,14 +5,14 @@ include 'php/header.php'; ?>
 					<div class="container py-5 my-5">
 						<div class="row justify-content-center mt-5 py-4">
 							<div class="col-12 col-sm-auto text-center text-sm-left mt-5">
-								<h1 class="font-weight-bold text-color-dark negative-ls-3 text-10 mb-2 appear-animation" style="font-size:112px;font-family: 'Lemon', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="200"><em>
+								<h1 class="font-weight-bold text-color-dark negative-ls-3 text-10 mb-2 appear-animation" style="font-size:60px !important;font-family: 'Lemon', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="200"><em>
 									Make money using MinePos!
 								</em></h1>
 							</div>
 						</div>
 						<div class="row justify-content-center">
 							<div class="col-10 text-center">
-								<h2 class="lead lead-2 mb-5 appear-animation font-weight-extra-bold" style="font-size: 30px;color: #939393;font-family: 'Caveat', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="600">Best of all? It's <span style="text-decoration: underline">FREE!</span> </h2>
+								<h2 class="lead lead-2 mb-5 appear-animation font-weight-extra-bold" style="font-size: 50px;color: #939393;font-family: 'Caveat', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="600">Best of all? It's <span style="text-decoration: underline">FREE!</span> </h2>
 								<a href="https://github.com/MinePoS/Documentation/wiki" data-hash data-hash-offset="125" class="btn btn-outline-light btn-rounded btn-xl font-weight-semibold text-2 px-5 py-3 box-shadow-2 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="800">Get Started <i class="fas fa-arrow-right ml-1"></i></a>
 							</div>
 						</div>
