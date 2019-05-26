@@ -31,7 +31,7 @@ include 'php/header.php'; ?>
 									<div class="testimonial-arrow-down"></div>
 									<div class="testimonial-author">
 										<div class="testimonial-author-thumbnail">
-											<img src="img/unknown.png" class="rounded-circle" alt="">
+											<img src="http://minepos.b-cdn.net/img/unknown.png" class="rounded-circle" alt="">
 										</div>
 										<p><strong class="font-weight-extra-bold text-light">DiscoverSquishy</strong><span>CEO of CraftiteMania</span></p>
 									</div>
@@ -44,7 +44,7 @@ include 'php/header.php'; ?>
 									</blockquote>
 									<div class="testimonial-arrow-down"></div>
 									<div class="testimonial-author">
-										<img src="img/Andrew.png" class="img-fluid rounded-circle" alt="">
+										<img src="http://minepos.b-cdn.net/img/Andrew.png" class="img-fluid rounded-circle" alt="">
 										<p><strong class="font-weight-extra-bold text-light">Andrew Aubury</strong><span>CEO of MinePOS</span></p>
 									</div>
 								</div>
@@ -57,7 +57,7 @@ include 'php/header.php'; ?>
 									<div class="testimonial-arrow-down"></div>
 									<div class="testimonial-author">
 										<div class="testimonial-author-thumbnail">
-											<img src="img/Craig.png" class="img-fluid rounded-circle" alt="">
+											<img src="http://minepos.b-cdn.net/img/Craig.png" class="img-fluid rounded-circle" alt="">
 										</div>
 										<p><strong class="font-weight-extra-bold text-light">John Smith</strong><span>Owner of Dubcraft</span></p>
 									</div>
