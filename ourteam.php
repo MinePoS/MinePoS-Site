@@ -36,7 +36,7 @@ include 'php/header.php'; ?>
             </div>
         </div>
         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
-            <img src="img/MinePosLogo.svg" style="max-height: 300px" class="img-fluid" alt="">
+            <img src="http://minepos.b-cdn.net/img/MinePosLogo.svg" style="max-height: 300px" class="img-fluid" alt="">
         </div>
     </div>
 
@@ -48,7 +48,7 @@ include 'php/header.php'; ?>
 
     <div class="row">
         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
-            <img src="img/MinePosLogo.svg" style="max-height: 300px" class="img-fluid" alt="">
+            <img src="http://minepos.b-cdn.net/img/MinePosLogo.svg" style="max-height: 300px" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 order-2">
             <div class="overflow-hidden">
@@ -103,7 +103,7 @@ include 'php/header.php'; ?>
             </div>
         </div>
         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
-            <img src="img/Kyle.png" class="img-fluid" alt="">
+            <img src="http://minepos.b-cdn.net/img/Kyle.png" class="img-fluid" alt="">
         </div>
     </div>
 
