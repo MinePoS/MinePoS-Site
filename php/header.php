@@ -8,9 +8,13 @@
 
     <title><?php echo "$pageTitle"; ?> | MinePOS</title>
 
-    <meta name="keywords" content="MinePOS Donation system" />
-    <meta name="description" content="MinePOS is a free self-hosted game donation system.">
+    <meta name="keywords" content="MinePoS Donation Platform" />
+    <meta name="description" content="MinePoS is a free self-hosted Minecraft donation platform. We care about security, customization and functionality. Give us a chance today!">
     <meta name="author" content="Keystirras.ml">
+    <meta property=”og:title” content=”MinePoS Donation Platform”/>
+    <meta property=”og:image” content=”https://minepos.b-cdn.net/img/MinePosLogo.svg”/>
+    <meta property=”og:site_name” content=”MinePoS Donation Platform”/>
+    <meta property=”og:description” content=”MinePoS is a free self-hosted Minecraft donation platform. We care about security, customization and functionality. Give us a chance today!”/>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="https://minepos.b-cdn.net/favicon.ico" type="image/x-icon" />
