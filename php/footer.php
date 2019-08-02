@@ -25,7 +25,7 @@
             <div class="row py-4">
                 <div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0 text-center">
                     <a href="index.html" class="logo pr-0 pr-lg-3">
-                        <img alt="Logo" src="http://minepos.b-cdn.net/img/MinePosLogo.svg" class="opacity-5" height="33">
+                        <img alt="Logo" src="https://minepos.b-cdn.net/img/MinePosLogo.svg" class="opacity-5" height="33">
                     </a>
                 </div>
                 <div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
