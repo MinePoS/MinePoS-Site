@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title><?php echo "$pageTitle"; ?>| MinePOS</title>
+    <title><?php echo "$pageTitle"; ?> | MinePOS</title>
 
     <meta name="keywords" content="MinePOS Donation system" />
     <meta name="description" content="MinePOS is a free self-hosted game donation system.">
