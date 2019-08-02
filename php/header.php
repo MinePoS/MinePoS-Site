@@ -15,7 +15,8 @@
     <meta property=”og:image” content=”https://minepos.b-cdn.net/img/MinePosLogo.svg”/>
     <meta property=”og:site_name” content=”MinePoS Donation Platform”/>
     <meta property=”og:description” content=”MinePoS is a free self-hosted Minecraft donation platform. We care about security, customization and functionality. Give us a chance today!”/>
-
+    <meta name=" theme-color" content="#621919">
+    
     <!-- Favicon -->
     <link rel="shortcut icon" href="https://minepos.b-cdn.net/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://minepos.b-cdn.net/img/icons/apple-touch-icon.png" />
