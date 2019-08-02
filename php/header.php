@@ -76,7 +76,7 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="index.php">
-                                    <img alt="Logo" width="90" height="50" src="http://minepos.b-cdn.net/img/MinePosLogo.svg">
+                                    <img alt="Logo" width="90" height="50" src="https://minepos.b-cdn.net/img/MinePosLogo.svg">
                                 </a>
                             </div>
                         </div>
