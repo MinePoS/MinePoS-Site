@@ -97,7 +97,7 @@ include 'php/header.php'; ?>
                 <div class="col-sm-6 text-lg-right my-4 my-lg-0">
                     <strong class="text-uppercase text-1 mr-3 text-dark">follow me</strong>
                     <ul class="social-icons float-lg-right">
-                        <li class="social-icons-facebook"><a href="http://keystirras.ml" target="_blank" title="Website"><i class="fab fa-internet-explorer"></i></a></li>
+                        <li class="social-icons-facebook"><a href="http://keystirras.me" target="_blank" title="Website"><i class="fab fa-internet-explorer"></i></a></li>
                         <li class="social-icons-twitter"><a href="https://github.com/Keystirras" target="_blank" title="Github"><i class="fab fa-github"></i></a></li>
                         <li class="social-icons-linkedin"><a href="https://discord.gg/6MFBvgv" target="_blank" title="Discord"><i class="fab fa-discord"></i></a></li>
                     </ul>
