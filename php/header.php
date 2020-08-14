@@ -99,6 +99,9 @@
                                                 <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Features") {echo "active";}?>" href="features.php" style="font-size: 17px;">Features</a>
                                             </li>
                                             <li>
+                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Updates") {echo "active";}?>" href="updates.php" style="font-size: 17px;">Updates</a>
+                                            </li>											
+                                            <li>
                                                 <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Team") {echo "active";}?>" href="ourteam.php" style="font-size: 17px;">Our Team</a>
                                             </li>
                                             <li class="dropdown">

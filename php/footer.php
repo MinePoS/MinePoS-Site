@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-6 col-lg-6 mb-4 mb-md-0">
                 <h5 class="text-3 mb-3">About Us</h5>
-                <p>At MinePos we care about security, customization and functionality. We firmly believe that we are one of the best open source MineCraft Point-of-Sale systems out there on the internet. </p>
+                <p>At MinePos we care about security, customization and functionality. We firmly believe that we are one of the best MineCraft Point-of-Sale systems out there on the internet. </p>
             </div>
         </div>
     </div>
@@ -29,7 +29,7 @@
                     </a>
                 </div>
                 <div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
-                    <p>© Copyright 2019. All Rights Reserved.</p>
+                    <p>© Copyright 2020. All Rights Reserved.</p>
                 </div>
             </div>
         </div>
