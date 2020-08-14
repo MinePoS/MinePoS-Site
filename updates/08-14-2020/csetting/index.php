@@ -1,6 +1,17 @@
-<?php $pageTitle = 'Home';
 include 'php/header.php'; ?>
 			<div role="main" class="main">
+			<section class="page-header page-header-modern page-header-md bg-primary">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-12 align-self-center p-static order-2 text-center">
+
+							<h1 class="text-light">Project Updates (Commerical Setting)</h1>
+
+						</div>
+					</div>
+				</div>
+			</section>			
 			<section>
 				<div>
 					<h2>Commerical Setting</h2>
