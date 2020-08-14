@@ -105,7 +105,7 @@
                                                 <a class="dropdown-item dropdown-toggle" href="#" style="font-size: 17px;">Get Started</a>
                                                 <ul class="dropdown-menu">
                                                     <li>
-                                                        <a class="dropdown-item" href="commingsoon.php">
+                                                        <a class="dropdown-item" href="comingsoon.php">
                                                             Spigot (WIP)
                                                         </a>
                                                     </li>
