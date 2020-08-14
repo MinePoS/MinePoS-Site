@@ -12,8 +12,8 @@ include 'php/header.php'; ?>
 						</div>
 						<div class="row justify-content-center">
 							<div class="col-10 text-center">
-								<h2 class="lead lead-2 mb-5 appear-animation font-weight-extra-bold" style="font-size: 50px;color: #939393;font-family: 'Caveat', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="600">Best of all? It's <span style="text-decoration: underline">FREE!</span> </h2>
-								<a href="https://github.com/MinePoS/Documentation/wiki" data-hash data-hash-offset="125" class="btn btn-outline-light btn-rounded btn-xl font-weight-semibold text-2 px-5 py-3 box-shadow-2 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="800">Get Started <i class="fas fa-arrow-right ml-1"></i></a>
+								<!--<h2 class="lead lead-2 mb-5 appear-animation font-weight-extra-bold" style="font-size: 50px;color: #939393;font-family: 'Caveat', cursive;" data-appear-animation="fadeInUp" data-appear-animation-delay="600">Best of all? It's <span style="text-decoration: underline">FREE!</span> </h2>-->
+								<a href="comingsoon.php" data-hash data-hash-offset="125" class="btn btn-outline-light btn-rounded btn-xl font-weight-semibold text-2 px-5 py-3 box-shadow-2 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="800">Get Started <i class="fas fa-arrow-right ml-1"></i></a>
 							</div>
 						</div>
 					</div>

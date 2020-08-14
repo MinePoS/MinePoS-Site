@@ -110,7 +110,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a class="dropdown-item" href="https://github.com/MinePoS/Documentation/wiki">
+                                                        <a class="dropdown-item" href="comingsoon.php">
                                                             Panel
                                                         </a>
                                                     </li>
