@@ -16,7 +16,7 @@ include '../../../php/header.php'; ?>
 			<section>
 				<div>
 					<h2>Commerical Setting</h2>
-					<h4>Posted: August 14th, 2020 (7:00 PM) | Author: I. Hess</h4>
+					<h4>Posted: August 14th, 2020 <small>(7:00 PM)</small> | <small>Author: I. Hess</small></h4>
 					<p>MinePOS will still have a self hosted option but as we transition from self hosted solution to a commerical setting like the popular donation stores. We at MinePOS are working to make this donation platform cheaper with preimum features and the highest security to our users data. In the next upcoming months we will be working on the Commerical Side of MinePOS, this version of MinePOS will include the option to have custom themes, and much more... We are looking for feature suggestions in our <a href="https://discord.gg/Uk25cXM">Discord</a>. The following features will be included for release of the Hosted MinePOS:</p>
 					<ul>
 						<li>Auto Deploy of the Store after payment.</li>
