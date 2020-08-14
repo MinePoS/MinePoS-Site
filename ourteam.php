@@ -20,7 +20,7 @@ include 'php/header.php'; ?>
                 <h2 class="text-color-dark font-weight-bold text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;">Andrew Aubury</h2>
             </div>
             <div class="overflow-hidden mb-3">
-                <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">CEO - Awesome Guy</p>
+                <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">Founder</p>
             </div>
             <p class="lead appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">WIP</p>
             <hr class="solid my-4 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
@@ -55,7 +55,7 @@ include 'php/header.php'; ?>
                 <h2 class="text-color-dark font-weight-bold text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;">PiggyPiglet</h2>
             </div>
             <div class="overflow-hidden mb-3">
-                <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">Co-CEO</p>
+                <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">Co-Founder</p>
             </div>
             <p class="lead appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">Piggy is currently a high-school student in Perth, Australia. He first got into development in 2014, and did his first java course in 2015. From there, he has worked in several different languages and fields, including but not limited to: Java software development, Spigot plugins, front-end website development, Linux system administration, and dabbled in Lua, NodeJS & C#. When not in his IDE, Piggy is an avid gamer, sometimes spending entire weekends in games such as Rust.</p>
             <hr class="solid my-4 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
@@ -69,6 +69,32 @@ include 'php/header.php'; ?>
                         <li class="social-icons-twitter"><a href="https://github.com/PiggyPiglet" target="_blank" title="Github"><i class="fab fa-github"></i></a></li>
                         <li class="social-icons-steam"><a href="https://steamcommunity.com/id/PiggyPiglet_/" target="_blank" title="Steam"><i class="fab fa-steam"></i></a></li>
                         <li class="social-icons-twitter"><a href="https://piggypiglet.me/discord" target="_blank" title="Discord"><i class="fab fa-discord"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+            <img src="https://minepos.b-cdn.net/img/Hess.png" style="max-height: 300px" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 order-2">
+            <div class="overflow-hidden">
+                <h2 class="text-color-dark font-weight-bold text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;">Ian Hess</h2>
+            </div>
+            <div class="overflow-hidden mb-3">
+                <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">Co-Founder</p>
+            </div>
+            <p class="lead appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">Ian is currently a College Student in Pennsylvania, United States. He first got into development in 2016 starting with python, and html. From there, he branched out to work with PHP. Ian also owns HessApps, LLC which is a software development company in the United States.</p>
+            <hr class="solid my-4 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
+            <div class="row align-items-center appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000" style="animation-delay: 1000ms;">
+                <div class="col-lg-6">
+                </div>
+                <div class="col-sm-6 text-lg-right my-4 my-lg-0">
+                    <strong class="text-uppercase text-1 mr-3 text-dark">follow me</strong>
+                    <ul class="social-icons float-lg-right">
+                        <li class="social-icons-facebook"><a href="https://techme.cc" target="_blank" title="Website"><i class="fab fa-internet-explorer"></i></a></li>
+                        <li class="social-icons-twitter"><a href="https://github.com/techmecc" target="_blank" title="Github"><i class="fab fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>
