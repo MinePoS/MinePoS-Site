@@ -13,25 +13,27 @@ include 'php/header.php'; ?>
 					</div>
 				</div>
 			</section>			
-			<section>
-				<div>
-					<h2>MinePOS Project Updates</h2>
+			<section class="section bg-color-light section-height-3 border-0 mt-5 mb-0">
+				<container>
 					<div>
-						<h4>Recent Updates</h4>
-						<ul>
-						<li><p><a href="https://minepos.net/updates/08-14-2020/csetting">Commercial Setting</a> <small>(Aug 14th, 2020)</small></p></li>
-						</ul>
+						<h2>MinePOS Project Updates</h2>
+						<div>
+							<h4>Recent Updates</h4>
+							<ul>
+							<li><p><a href="https://minepos.net/updates/08-14-2020/csetting">Commercial Setting</a> <small>(Aug 14th, 2020)</small></p></li>
+							</ul>
+						</div>
 					</div>
-				</div>
-				<div>
-					<h2>MinePOS Changelog</h2>
 					<div>
-						<h4>Recent Changes</h4>
-						<ul>
-						<li>No Changes have been released for MinePOS!</li>
-						</ul>
-					</div>					
-				</div>
+						<h2>MinePOS Changelog</h2>
+						<div>
+							<h4>Recent Changes</h4>
+							<ul>
+							<li>No Changes have been released for MinePOS!</li>
+							</ul>
+						</div>					
+					</div>
+				</container>
 			</section>
 
 
