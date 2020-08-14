@@ -93,27 +93,27 @@
                                     <nav class="collapse">
                                         <ul class="nav nav-pills" id="mainNav" style="color:white; font-size:17px;">
                                             <li>
-                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Home") {echo "active";}?>" href="index.php" style="font-size: 17px;">Home</a>
+                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Home") {echo "active";}?>" href="https://minepos.net/index.php" style="font-size: 17px;">Home</a>
                                             </li>
                                             <li>
-                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Features") {echo "active";}?>" href="features.php" style="font-size: 17px;">Features</a>
+                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Features") {echo "active";}?>" href="https://minepos.net/features.php" style="font-size: 17px;">Features</a>
                                             </li>
                                             <li>
-                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Updates") {echo "active";}?>" href="updates.php" style="font-size: 17px;">Updates</a>
+                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Updates") {echo "active";}?>" href="https://minepos.net/updates.php" style="font-size: 17px;">Updates</a>
                                             </li>											
                                             <li>
-                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Team") {echo "active";}?>" href="ourteam.php" style="font-size: 17px;">Our Team</a>
+                                                <a class="dropdown-item dropdown-toggle <?php if ($pageTitle == "Team") {echo "active";}?>" href="https://minepos.net/ourteam.php" style="font-size: 17px;">Our Team</a>
                                             </li>
                                             <li class="dropdown">
                                                 <a class="dropdown-item dropdown-toggle" href="#" style="font-size: 17px;">Get Started</a>
                                                 <ul class="dropdown-menu">
                                                     <li>
-                                                        <a class="dropdown-item" href="comingsoon.php">
+                                                        <a class="dropdown-item" href="https://minepos.net/comingsoon.php">
                                                             Spigot (WIP)
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a class="dropdown-item" href="comingsoon.php">
+                                                        <a class="dropdown-item" href="https://minepos.net/comingsoon.php">
                                                             Panel
                                                         </a>
                                                     </li>
