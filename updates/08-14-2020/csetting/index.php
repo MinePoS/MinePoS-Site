@@ -1,4 +1,4 @@
-include 'php/header.php'; ?>
+<?php include 'php/header.php'; ?>
 			<div role="main" class="main">
 			<section class="page-header page-header-modern page-header-md bg-primary">
 				<div class="container">
