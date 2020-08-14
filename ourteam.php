@@ -75,6 +75,12 @@ include 'php/header.php'; ?>
         </div>
     </div>
     <div class="row">
+        <div class="col">
+            <hr class="solid my-5">
+        </div>
+    </div>
+	
+    <div class="row">
         <div class="col-md-7 order-2">
             <div class="overflow-hidden">
                 <h2 class="text-color-dark font-weight-bold text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;">Ian Hess</h2>
@@ -97,7 +103,7 @@ include 'php/header.php'; ?>
             </div>
         </div>
         <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
-            <img src="https://minepos.b-cdn.net/img/MinePosLogo.svg" style="max-height: 300px" class="img-fluid" alt="">
+            <img src="https://minepos.b-cdn.net/img/Hess.png" style="max-height: 300px" class="img-fluid" alt="">
         </div>
     </div>	
 	
