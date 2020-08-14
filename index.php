@@ -45,11 +45,11 @@ include 'php/header.php'; ?>
 									<div class="testimonial-arrow-down"></div>
 									<div class="testimonial-author">
 										<img src="https://minepos.b-cdn.net/img/Andrew.png" class="img-fluid rounded-circle" alt="">
-										<p><strong class="font-weight-extra-bold text-light">Andrew Aubury</strong><span>CEO of MinePOS</span></p>
+										<p><strong class="font-weight-extra-bold text-light">Andrew Aubury</strong><span>Founder of MinePOS</span></p>
 									</div>
 								</div>
 							</div>
-							<div class="col-lg-4">
+							<!-- <div class="col-lg-4">
 								<div class="testimonial testimonial-style-3">
 									<blockquote>
 										<p class="mb-0">Creating a server is hard enough and with the extra charges of those minecraft stores, it's a huge struggle. MinePOS gives me the peace of mind i need.</p>
@@ -64,7 +64,7 @@ include 'php/header.php'; ?>
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</section>
 
 				<section class="section section-height-3 border-0 my-0 text-center">
@@ -79,7 +79,7 @@ include 'php/header.php'; ?>
 									<div class="box-content p-5">
 										<i class="icon-featured fa fa-cloud mt-0"></i>
 										<h4 class="font-weight-normal text-5 text-dark">Self<strong class="font-weight-extra-bold"> Hosted</strong></h4>
-										<p class="mb-0">MinePOS is self hosted, which gives you more control.</p>
+										<p class="mb-0">MinePOS will have a self hosted option, which gives you more control.</p>
 									</div>
 								</div>
 							</div>
@@ -122,7 +122,7 @@ include 'php/header.php'; ?>
 									</div>
 								</div>
 							</div>
-							<div class="col-lg-4">
+							<!--<div class="col-lg-4">
 								<div class="featured-box featured-box-primary border-radius-0 featured-box-effect-1">
 									<div class="box-content box-content-border-bottom border-radius-0 p-5">
 										<i class="icon-featured far fa-star mt-0"></i>
@@ -130,7 +130,7 @@ include 'php/header.php'; ?>
 										<p class="mb-0">All of our code is Open Source and available on Github.</p>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 				</section>
 	<?php include 'php/footer.php' ?>
