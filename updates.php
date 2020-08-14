@@ -1,11 +1,19 @@
 <?php $pageTitle = 'Updates';
 include 'php/header.php'; ?>
 			<div role="main" class="main">
-			<section>
-				<div>
-					<h1>MinePOS Updates</h1>
-					<p>Here you will find our Updates for the MinePOS Project & Changelog</p>
+			<section class="page-header page-header-modern page-header-md bg-primary">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-12 align-self-center p-static order-2 text-center">
+
+							<h1 class="text-light">Updates</h1>
+
+						</div>
+					</div>
 				</div>
+			</section>			
+			<section>
 				<div>
 					<h2>MinePOS Project Updates</h2>
 					<div>
