@@ -13,7 +13,7 @@ include 'php/header.php'; ?>
 					</div>
 				</div>
 			</section>			
-			<section class="section bg-color-light section-height-3 border-0 mt-5 mb-0">
+			<section class="section bg-color-light section-height-3 border-0 mt-5 mb-0 updatesection">
 				<div class="container">
 					<div class="row">
 						<div class="col">
