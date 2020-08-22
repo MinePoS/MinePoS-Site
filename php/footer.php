@@ -64,7 +64,6 @@
 <script src="https://minepos.b-cdn.net/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script src="https://minepos.b-cdn.net/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script src="https://minepos.b-cdn.net/vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
-<script src="https://minepos.b-cdn.net/js/views/view.home.js"></script>
 
 <!-- Theme Custom -->
 <script src="https://minepos.b-cdn.net/js/custom.js"></script>
