@@ -13,7 +13,7 @@ include '../../../php/header.php'; ?>
 					</div>
 				</div>
 			</section>			
-			<section style="margin: 2rem">
+			<section class="updatesection">
 				<div>
 					<h2>Commerical Setting</h2>
 					<h4>Posted: August 14th, 2020 <small>(7:00 PM)</small> | <small>Author: I. Hess</small></h4>
