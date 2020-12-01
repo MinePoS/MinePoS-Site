@@ -40,7 +40,7 @@ include 'php/header.php'; ?>
 							<div class="col-lg-4">
 								<div class="testimonial testimonial-style-3">
 									<blockquote>
-										<p class="mb-0">As the main creator and developer of MinePOS, I enjoy using my own software for personal purposes such as testing servers.</p>
+										<p class="mb-0">As the main creator and developer of MinePoS, I enjoy using my own software for personal purposes such as testing servers.</p>
 									</blockquote>
 									<div class="testimonial-arrow-down"></div>
 									<div class="testimonial-author">
